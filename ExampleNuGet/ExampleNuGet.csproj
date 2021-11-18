@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>NuGetPackagExampleId</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Ronald Marcos</Authors>
+    <Company>MDM</Company>
+    <RepositoryUrl>https://github.com/https://github.com/ronaldmarcos-mdm/NuGetPackagExample</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
